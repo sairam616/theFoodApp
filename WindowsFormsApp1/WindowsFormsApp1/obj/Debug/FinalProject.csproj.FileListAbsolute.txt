@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FoodOrder.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Payment.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Summary.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DetailedSummary.resources
+C:\Users\student\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Signin.resources
